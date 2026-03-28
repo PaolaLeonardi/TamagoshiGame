@@ -1,5 +1,4 @@
-# TamagoshiGame
-### 🐾 TamagoshiGame
+# TamagoshiGame 🐾
 
 Projeto desenvolvido em grupo com o objetivo de criar um pet virtual interativo, inspirado nos clássicos Tamagotchis, utilizando conceitos de programação e desenvolvimento de interfaces.
 
