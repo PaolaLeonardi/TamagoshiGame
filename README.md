@@ -4,12 +4,16 @@ Projeto desenvolvido em grupo com o objetivo de criar um pet virtual interativo,
 
 ## 🛠️ Tecnologias utilizadas
 Python 
+<br>
 Godot
 
 ## 👥 Equipe
 Paola Leonardi 
+<br>
 Helena
+<br>
 Juliana
+<br>
 Mariana
 
 ## 💡 Observações
