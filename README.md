@@ -7,16 +7,5 @@ Python
 <br>
 Godot
 
-## 👥 Equipe
-Paola Leonardi 
-<br>
-Helena
-<br>
-Juliana
-<br>
-Mariana
-<br>
-Isadora
-
 ## 💡 Observações
 Este projeto ainda está em desenvolvimento, então novas funcionalidades podem ser adicionadas ao longo do tempo.
